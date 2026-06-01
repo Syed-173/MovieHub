@@ -14,13 +14,17 @@ A full stack web application to browse movies, watch trailers, and write reviews
 ## How to Run Locally
 
 ### Backend
+```bash
 cd backend
 ./mvnw spring-boot:run
+```
 
 ### Frontend
+```bash
 cd frontend
 npm install
 npm start
+```
 
 ## Author
 Syed Sohaib
