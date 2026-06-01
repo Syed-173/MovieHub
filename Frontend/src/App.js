@@ -67,7 +67,7 @@ function App() {
             <Route path="*" element = {<NotFound/>}></Route>
           </Route>
       </Routes>
-      <footer style={{textAlign:'center', padding:'20px', color:'gray'}}>
+      <footer style={{textAlign:'center', padding:'18px', color:'gray'}}>
   Built by Your Name
 </footer>
     </div>
